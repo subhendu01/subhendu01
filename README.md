@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-- 🧑‍💻  Currently working as a Software Developer at [Amdocs](www.amdocs.com) 
+- 🧑‍💻  Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) 
 - 🔭 I’m currently working on personal growth
 - 🌱 I’m currently learning so many things🤣 
 - 👯 I’m looking to collaborate on freelancing python projects.
