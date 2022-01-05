@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="images/git_bnr.png"></img>
+### Hi there,👋 How are you doing?
 
 <!--
 **subhendu01/subhendu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
