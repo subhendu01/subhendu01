@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 
-<details>
+<details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
 
@@ -29,7 +29,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&theme=merko&hide_border=true)
 <!-- ?hide=language1,language2 -->
 </details>
-<br/>
 
 ### Connect with me:
 
@@ -43,8 +42,9 @@
 </p>
 <br/><br/>
 
-<img align="left" src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="30" /> &nbsp;&nbsp;<em><b>I love connecting with different people, so if you want to say 'hi' I'll be happy to know you more!</b>😃</em>
+<img align="left" src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="30" /> &nbsp;&nbsp;<em><b>I love connecting with different people, so if you want to say '**Hi**' I'll be more happy to talk!</b>😃</em>
 <br/><br/>
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views" />
 <img src="https://badges.pufler.dev/visits/subhendu01/subhendu01?color=black&logo=github" />
