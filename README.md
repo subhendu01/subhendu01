@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" /></a>
+<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" title="github"/></a>
 <a href="https://www.youtube.com/channel/UCGBxU0uPeEMDU3PkpleQaoA"><img align="left" alt="YouTube" width="22px" src="images\icons8-youtube.svg" /></a>
 <a href="https://twitter.com/Subhendu__7"><img align="left" alt="Twitter" width="22px" src="images\icons8-twitter-circled.gif" /></a>
 <a href="https://www.linkedin.com/in/subhendusekhar/"><img align="left" alt="LinkedIn" width="22px" src="images\icons8-linkedin-circled.svg" /></a>
