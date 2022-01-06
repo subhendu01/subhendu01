@@ -29,10 +29,10 @@
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png"/>
-<img src = "images/telegraf.png" style="width:42px;height:42px;" />
+<img src = "images/telegraf.png" style="width:48px;height:48px;" />
 <img src = "images/influx.png" style="width:48px;height:42px;" />
 <img src="https://img.icons8.com/color/48/000000/prometheus-app.png"/>
-<img src = "images/kafka.png" width="48"/>
+<img src = "images/kafka.png" style="width:48px;height:48px;" />
 <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
 
 <details open>
