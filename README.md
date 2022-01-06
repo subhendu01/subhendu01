@@ -19,4 +19,30 @@
 <a href="https://www.instagram.com/__baugs__7/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/subhendusekhar.baug/"><img align="left" alt="Facebook" width="22px" src="images/icons8-facebook.svg" /></a>
 
-![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true)
+![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true&theme=merko&hide=prs,contributed)
+
+<!-- ?hide=language1,language2 -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&theme=neon-palenight&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=subhenu01)
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
+<hr/>
+<br/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/subhendu01/subhendu01?color=black&logo=github" />
+</p>
