@@ -10,7 +10,6 @@
 - 💬 Ask me about development and investment.
 - ⚡ Fun fact: I love to chill with friends.
 
-<br/>
 <hr/>
 
 ### Connect with me:
@@ -22,7 +21,6 @@
 <a href="https://www.instagram.com/__baugs__7/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/subhendusekhar.baug/"><img align="left" alt="Facebook" width="22px" src="images/icons8-facebook.svg" /></a>
 
-<br/>
 <hr/>
 <br/><br/>
 
