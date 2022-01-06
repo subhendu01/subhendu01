@@ -16,24 +16,27 @@
 <a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width:30px;height:30px;" /></a>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/ios/50/000000/flask.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/material-outlined/48/000000/django.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/git.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" />
-<img src = "images/telegraf.png" style="width:30px;height:30px;" />
-<img src = "images/influx.png" style="width:30px;height:30px;" />
-<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" />
-<img src = "images/kafka.png" style="width:30px;height:30px;"  />
-<img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" />
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/flask.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/django.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src = "images/telegraf.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src = "images/influx.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src = "images/kafka.png" style="width:30px;height:30px;"  /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/000000/external-iot-digital-transformation-parzival-1997-outline-color-parzival-1997.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-voice-technology-soft-fill-soft-fill-juicy-fish.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" style="width:30px;height:30px;" /></a>&nbsp;
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
@@ -60,6 +63,12 @@
 
 <img align="left" src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="30" /> &nbsp;&nbsp;<em><b>I love connecting with different people, so if you want to say '**Hi**' I'll be more happy to talk!</b>😃</em>
 <br/><br/>
+
+### References:
+The following resources were used to build this:
+1. https://github.com/anuraghazra/github-readme-stats
+2. https://icons8.com/icons/
+3. https://readme.so/
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views" />
