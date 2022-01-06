@@ -41,8 +41,10 @@
 <a href = "https://www.facebook.com/subhendusekhar.baug/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook" /></a>
 <a href="https://github.com/subhendu01" target="_blank"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" title="github" /></a>
 </p>
+<br/><br/>
 
-<img src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="60" /><em><b>I love connecting with different people, so if you want to say 'hi' I'll be happy to know you more!</b>😃</em>
+<img align="left" src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="30" /> &nbsp;&nbsp;<em><b>I love connecting with different people, so if you want to say 'hi' I'll be happy to know you more!</b>😃</em>
+<br/><br/>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views" />
 <img src="https://badges.pufler.dev/visits/subhendu01/subhendu01?color=black&logo=github" />
