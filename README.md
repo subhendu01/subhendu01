@@ -18,3 +18,5 @@
 <a href="https://www.linkedin.com/in/subhendusekhar/"><img align="left" alt="LinkedIn" width="22px" src="images\icons8-linkedin-circled.svg" /></a>
 <a href="https://www.instagram.com/__baugs__7/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/subhendusekhar.baug/"><img align="left" alt="Facebook" width="22px" src="images/icons8-facebook.svg" /></a>
+
+![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true)
