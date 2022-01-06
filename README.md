@@ -32,13 +32,14 @@
 
 
 <details>
+## ⚙ Details
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
 
 <!-- &hide=stars,commits,prs,issues,contribs -->
-![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true&theme=merko&hide=contribs) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko)
+![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true&theme=merko&hide=contribs)  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko)
      
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&show_icons=true&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&theme=merko&hide_border=true)
 
 <!-- ?hide=language1,language2 -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko) -->
