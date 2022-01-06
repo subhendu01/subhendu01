@@ -13,7 +13,26 @@
 <hr/>
 
 ### Languages and Tools:
-<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
+<img src="https://img.icons8.com/ios/50/000000/flask.png"/>
+<img src="https://img.icons8.com/material-outlined/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png"/>
+<img src = "images/telegraf.png" width="48"/>
+<img src = "images/influx.png" width="48"/>
+<img src="https://img.icons8.com/color/48/000000/prometheus-app.png"/>
+<img src = "images/kafka.png" width="48"/>
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
