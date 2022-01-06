@@ -37,10 +37,9 @@
 
 <!-- &hide=stars,commits,prs,issues,contribs -->
 ![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true&theme=merko&hide=contribs) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko)
-<p align="center">
+     
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&show_icons=true&theme=merko)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhendu01&theme=neon-palenight&hide_border=true)
-</p>
 <!-- ?hide=language1,language2 -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko) -->
 
