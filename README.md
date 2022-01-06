@@ -26,7 +26,7 @@
 <a href = "https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://cloud.google.com/dialogflow/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>&nbsp;
+<a href = "https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.jenkins.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://grafana.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
