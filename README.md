@@ -12,26 +12,11 @@
 
 <hr/>
 
-### Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subhendusekhar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn" /></a>
-<a href = "https://twitter.com/Subhendu__7" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter" /></a>
-<a href = "https://www.instagram.com/__baugs__7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram" /></a>
-<a href = "https://www.youtube.com/channel/UCGBxU0uPeEMDU3PkpleQaoA" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" title="YouTube" /></a>
-<a href = "https://www.facebook.com/subhendusekhar.baug/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook" /></a>
-<a href="https://github.com/subhendu01" target="_blank"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" title="github" /></a>
-</p>
-
-
 <br/>
 <hr/>
 <br/>
 
 ### Languages and Tools:
-
-<img alt="GitHub Pipenv locked Python version" src="https://img.shields.io/github/pipenv/locked/python-version/subhendu01/subhendu01?style=social">
 
 
 <details>
@@ -46,7 +31,20 @@
 </details>
 <br/>
 
+### Connect with me:
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/subhendusekhar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn" /></a>
+<a href = "https://twitter.com/Subhendu__7" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter" /></a>
+<a href = "https://www.instagram.com/__baugs__7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram" /></a>
+<a href = "https://www.youtube.com/channel/UCGBxU0uPeEMDU3PkpleQaoA" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" title="YouTube" /></a>
+<a href = "https://www.facebook.com/subhendusekhar.baug/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook" /></a>
+<a href="https://github.com/subhendu01" target="_blank"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" title="github" /></a>
+</p>
+
+<img src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="60" /><em><b>I love connecting with different people, so if you want to say 'hi' I'll be happy to know you more!</b>😃</em>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views" />
 <img src="https://badges.pufler.dev/visits/subhendu01/subhendu01?color=black&logo=github" />
+<img src="https://img.shields.io/github/followers/subhendu01?label=Followers" />
 </p>
