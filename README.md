@@ -16,7 +16,7 @@
 
 
 <details open>
-  <summary><b>📈 &nbsp;GitHub Stats</b></summary>
+  <summary><h4><b>📈 &nbsp;GitHub Stats</b></h4></summary>
   <br/>
 
 <!-- &hide=stars,commits,prs,issues,contribs -->
