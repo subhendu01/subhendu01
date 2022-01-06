@@ -10,6 +10,9 @@
 - 💬 Ask me about development and investment.
 - ⚡ Fun fact: I love to chill with friends.
 
+<br/>
+<hr/>
+
 ### Connect with me:
 
 <a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" /></a>
