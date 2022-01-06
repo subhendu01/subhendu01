@@ -12,15 +12,11 @@
 
 <hr/>
 
-<br/>
-<hr/>
-<br/>
-
 ### Languages and Tools:
 
 
 <details open>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>📈 &nbsp;GitHub Stats</b></summary>
   <br/>
 
 <!-- &hide=stars,commits,prs,issues,contribs -->
