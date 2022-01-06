@@ -15,16 +15,16 @@
 ### Connect with me:
 
 
-[![name](images\icons8-github.svg)](https://github.com/subhendu01)
+<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" title="github"/></a>
 
-[![Fibonacci RMI Java EE](images\icons8-github.svg)](https://github.com/subhendu01 "RMI Fibonacci Java")
-
-![image description](images\icons8-github.svg)
-![alt tag]<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" title="github"/></a>
 <a href="https://www.youtube.com/channel/UCGBxU0uPeEMDU3PkpleQaoA"><img align="left" alt="YouTube" width="22px" src="images\icons8-youtube.svg" title="YouTube"/></a>
+
 <a href="https://twitter.com/Subhendu__7"><img align="left" alt="Twitter" width="22px" src="images\icons8-twitter-circled.gif" title="YouTube"/></a>
+
 <a href="https://www.linkedin.com/in/subhendusekhar/"><img align="left" alt="LinkedIn" width="22px" src="images\icons8-linkedin-circled.svg" title="LinkedIn"/></a>
+
 <a href="https://www.instagram.com/__baugs__7/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram"/></a>
+
 <a href="https://www.facebook.com/subhendusekhar.baug/"><img align="left" alt="Facebook" width="22px" src="images/icons8-facebook.svg" title="Facebook"/></a>
 <br/>
 <hr/>
