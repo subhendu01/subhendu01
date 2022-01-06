@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images/git.png" /></a>
+<a href="https://github.com/subhendu01"><img align="left" alt="github.com/subhendu01" width="22px" src="images\icons8-github.svg" /></a>
 <a href="https://www.youtube.com/channel/UCGBxU0uPeEMDU3PkpleQaoA"><img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://twitter.com/Subhendu__7"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/subhendusekhar/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
