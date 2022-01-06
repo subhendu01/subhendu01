@@ -16,9 +16,9 @@
 
 
 <details open>
-  <summary><h4><b>📈 &nbsp;GitHub Stats</b></h4></summary>
+  <summary><b>📈&nbsp;GitHub Stats</b></summary>
   <br/>
-
+### Languages and Tools:
 <!-- &hide=stars,commits,prs,issues,contribs -->
 ![baugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhendu01&show_icons=true&theme=merko&hide=contribs)  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu01&layout=compact&theme=merko)
      
