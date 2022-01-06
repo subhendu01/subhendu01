@@ -13,27 +13,27 @@
 <hr/>
 
 ### Languages and Tools:
-<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>&nbsp;
-<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>&nbsp;
-<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
-<img src="https://img.icons8.com/ios/50/000000/flask.png"/>
-<img src="https://img.icons8.com/material-outlined/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-<img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png"/>
-<img src = "images/telegraf.png" style="width:48px;height:48px;" />
-<img src = "images/influx.png" style="width:48px;height:42px;" />
-<img src="https://img.icons8.com/color/48/000000/prometheus-app.png"/>
-<img src = "images/kafka.png" style="width:48px;height:48px;" />
-<img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width:30px;height:30px;" /></a>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/ios/50/000000/flask.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/material-outlined/48/000000/django.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/git.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" />
+<img src = "images/telegraf.png" style="width:30px;height:30px;" />
+<img src = "images/influx.png" style="width:30px;height:30px;" />
+<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" />
+<img src = "images/kafka.png" style="width:30px;height:30px;"  />
+<img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" />
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
