@@ -1,4 +1,5 @@
-<img src="images/git_bnr.png"></img>
+![git_bnr](https://user-images.githubusercontent.com/39883820/148518041-98811bcc-e539-4b53-9983-276a33617551.png)
+
 ### Hi there,👋 How are you doing?
 
 ### :space_invader: &nbsp;About Me
