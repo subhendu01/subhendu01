@@ -73,12 +73,13 @@
 <br/><br/>
 
 <details>
-  <summary><b>&nbsp;References:</b></summary>
-The following resources were used to build this:
-- https://github.com/anuraghazra/github-readme-stats
-- https://icons8.com/icons/
-- https://readme.so/
-- https://gist.github.com/rxaviers/7360908
+  <summary><b>&nbsp;References:</b></summary><br/>
+The following resources were used to build this:<br/>
+  &nbsp;&nbsp;1. https://github.com/anuraghazra/github-readme-stats </br>
+  &nbsp;&nbsp;2. https://icons8.com/icons </br>
+  &nbsp;&nbsp;3. https://readme.so/ </br>
+  &nbsp;&nbsp;4. https://gist.github.com/rxaviers/7360908
+
 <!-- 4. https://shields.io/ -->
 <!-- https://simpleicons.org/?q=telegraf -->
 </details>
