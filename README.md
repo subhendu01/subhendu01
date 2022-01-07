@@ -37,7 +37,8 @@
 <a href = "https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/000000/external-iot-digital-transformation-parzival-1997-outline-color-parzival-1997.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.ibm.com/in-en/cloud/learn/machine-learning" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-voice-technology-soft-fill-soft-fill-juicy-fish.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://opencv.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png"/></a>&nbsp;
+<a href = "https://opencv.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://scikit-learn.org/" target="_blank"><img src="images/scikit.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
