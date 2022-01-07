@@ -47,6 +47,8 @@
 <a href = "https://jupyter.org/" target="_blank" title="jupyter"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://powerbi.microsoft.com/" target="_blank" title="PowerBI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://user-images.githubusercontent.com/39883820/148516568-69422910-84e6-4090-aa7d-523faa039a18.png" style="width:30px;height:30px;" /></a>&nbsp;
+
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
