@@ -30,15 +30,15 @@
 <a href = "https://www.heroku.com/" target="_blank" title="Heroku"><img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.jenkins.io/" target="_blank" title="Jenkin"><img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://grafana.com/" target="_blank" title="Grafana"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://docs.influxdata.com/telegraf/" target="_blank" title="Telegraf"><img src = "images/telegraf.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.influxdata.com/" target="_blank" title="InfluxDB"><img src = "images/influx.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://docs.influxdata.com/telegraf/" target="_blank" title="Telegraf"><img src="https://user-images.githubusercontent.com/39883820/148516933-fd7a7694-22d7-465d-b572-d739173a46d4.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.influxdata.com/" target="_blank" title="InfluxDB"><img src = "https://user-images.githubusercontent.com/39883820/148517702-7d43ede1-7c16-4e7a-b373-7d7c9d4a6373.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://prometheus.io/" target="_blank" title="Prometheus"><img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://kafka.apache.org/" target="_blank" title="Kafka"><img src = "images/kafka.png" style="width:30px;height:30px;"  /></a>&nbsp;
+<a href = "https://kafka.apache.org/" target="_blank" title="Kafka"><img src = "https://user-images.githubusercontent.com/39883820/148516568-69422910-84e6-4090-aa7d-523faa039a18.png" style="width:30px;height:30px;"  /></a>&nbsp;
 <a href = "https://www.docker.com/" target="_blank" title="Docker"><img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://en.wikipedia.org/wiki/Internet_of_things" target="_blank" title="IoT"><img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/000000/external-iot-digital-transformation-parzival-1997-outline-color-parzival-1997.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.ibm.com/in-en/cloud/learn/machine-learning" target="_blank" title="ML"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-voice-technology-soft-fill-soft-fill-juicy-fish.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://opencv.org/" target="_blank" title="OpenCV"><img src="https://img.icons8.com/fluency/48/000000/opencv.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://scikit-learn.org/" target="_blank" title="Scikit Learn"><img src="images/scikit.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://scikit-learn.org/" target="_blank" title="Scikit Learn"><img src="https://user-images.githubusercontent.com/39883820/148516917-5ed51a97-f34d-4901-8334-376a4cc14ae6.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.tensorflow.org/" target="_blank" title="Tensorflow"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.nginx.com/" target="_blank" title="Nginx"><img src="https://img.icons8.com/color/48/000000/nginx.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.postman.com/" target="_blank" title="Postman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
@@ -47,8 +47,6 @@
 <a href = "https://jupyter.org/" target="_blank" title="jupyter"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://powerbi.microsoft.com/" target="_blank" title="PowerBI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" style="width:30px;height:30px;" /></a>&nbsp;
 <a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://user-images.githubusercontent.com/39883820/148516568-69422910-84e6-4090-aa7d-523faa039a18.png" style="width:30px;height:30px;" /></a>&nbsp;
-
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
