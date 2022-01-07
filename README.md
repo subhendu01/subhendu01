@@ -72,7 +72,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/conference-call--v2.png" width="30" /> &nbsp;&nbsp;<em><b>I love connecting with different people, so if you want to say '**Hi**' I'll be more happy to talk!</b>😃</em>
 <br/><br/>
 
-### References:
+<details>
+  <summary><b>&nbsp;References:</b></summary>
 The following resources were used to build this:
 - https://github.com/anuraghazra/github-readme-stats
 - https://icons8.com/icons/
@@ -80,7 +81,7 @@ The following resources were used to build this:
 - https://gist.github.com/rxaviers/7360908
 <!-- 4. https://shields.io/ -->
 <!-- https://simpleicons.org/?q=telegraf -->
-
+</details>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=subhendu01&style=plastic&label=Views" />
