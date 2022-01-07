@@ -13,40 +13,40 @@
 <hr/>
 
 ### Languages and Tools:
-<a href = "https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://restfulapi.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://flask.palletsprojects.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/flask.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/django.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://cloud.google.com/dialogflow/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.jenkins.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://grafana.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://docs.influxdata.com/telegraf/" target="_blank"><img src = "images/telegraf.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.influxdata.com/" target="_blank"><img src = "images/influx.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://prometheus.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://kafka.apache.org/" target="_blank"><img src = "images/kafka.png" style="width:30px;height:30px;"  /></a>&nbsp;
-<a href = "https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/000000/external-iot-digital-transformation-parzival-1997-outline-color-parzival-1997.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.ibm.com/in-en/cloud/learn/machine-learning" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-voice-technology-soft-fill-soft-fill-juicy-fish.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://opencv.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://scikit-learn.org/" target="_blank"><img src="images/scikit.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" style="width:30px;height:30px;" /></a>&nbsp;
-<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.python.org/" target="_blank" title="python"><img src="https://img.icons8.com/color/48/000000/python--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://restfulapi.net/" target="_blank" title="Rest API"><img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://img.icons8.com/ios/50/000000/flask.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://img.icons8.com/material-outlined/48/000000/django.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://nodejs.org/" target="_blank" title="NodeJs"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.javascript.com/" target="_blank" title="JS"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://git-scm.com/" target="_blank" title="git"><img src="https://img.icons8.com/color/48/000000/git.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://about.gitlab.com/" target="_blank" title="gitlab"><img src="https://img.icons8.com/color/48/000000/gitlab.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://github.com/" target="_blank" title="Github"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://cloud.google.com/dialogflow/" target="_blank" title="Chat-bot"><img src="https://img.icons8.com/fluency/48/000000/chatbot.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://angular.io/" target="_blank" title="Angular"><img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.heroku.com/" target="_blank" title="Heroku"><img src="https://img.icons8.com/color/48/000000/heroku.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.jenkins.io/" target="_blank" title="Jenkin"><img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://grafana.com/" target="_blank" title="Grafana"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://docs.influxdata.com/telegraf/" target="_blank" title="Telegraf"><img src = "images/telegraf.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.influxdata.com/" target="_blank" title="InfluxDB"><img src = "images/influx.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://prometheus.io/" target="_blank" title="Prometheus"><img src="https://img.icons8.com/color/48/000000/prometheus-app.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://kafka.apache.org/" target="_blank" title="Kafka"><img src = "images/kafka.png" style="width:30px;height:30px;"  /></a>&nbsp;
+<a href = "https://www.docker.com/" target="_blank" title="Docker"><img src="https://img.icons8.com/fluency/48/000000/docker.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://en.wikipedia.org/wiki/Internet_of_things" target="_blank" title="IoT"><img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/64/000000/external-iot-digital-transformation-parzival-1997-outline-color-parzival-1997.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.ibm.com/in-en/cloud/learn/machine-learning" target="_blank" title="ML"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-voice-technology-soft-fill-soft-fill-juicy-fish.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://opencv.org/" target="_blank" title="OpenCV"><img src="https://img.icons8.com/fluency/48/000000/opencv.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://scikit-learn.org/" target="_blank" title="Scikit Learn"><img src="images/scikit.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.tensorflow.org/" target="_blank" title="Tensorflow"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.nginx.com/" target="_blank" title="Nginx"><img src="https://img.icons8.com/color/48/000000/nginx.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.postman.com/" target="_blank" title="Postman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.jetbrains.com/pycharm/" target="_blank" title="Pycharm"><img src="https://img.icons8.com/color/48/000000/pycharm.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://jupyter.org/" target="_blank" title="jupyter"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://powerbi.microsoft.com/" target="_blank" title="PowerBI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" style="width:30px;height:30px;" /></a>&nbsp;
+<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="width:30px;height:30px;" /></a>&nbsp;
 
 <details open>
   <summary><b>📈&nbsp;GitHub Stats</b></summary>
