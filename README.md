@@ -4,10 +4,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-- 🧑‍💻  Currently working as a **Software Developer** at [Amdocs](https://www.amdocs.com/) 
+- 🧑‍💻  Currently working as a **Senir Software Developer** at [Blue Yonder](https://blueyonder.com/) 
 - 🔭 I’m currently working on **personal growth**
 - 🌱 I’m currently learning so many things🤣 
-- 👯 I’m looking to collaborate on freelancing python projects.
+- 👯 I’m looking to collaborate on freelancing python backend/ DevOps/ ML projects.
 - 💬 Ask me about development and investment.
 - ⚡ Fun fact: I love to play badminton and chill with friends.
 
